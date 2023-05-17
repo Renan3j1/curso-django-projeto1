@@ -1,0 +1,3 @@
+def anoa():
+
+    print('BLALA')
